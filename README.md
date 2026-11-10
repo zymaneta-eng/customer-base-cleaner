@@ -71,13 +71,11 @@ Tested on a benchmark dataset of **100,000 messy customer records**:
 +---------------------------------------------------------------------------------------+
 ```
 
-![дашборд: перший екран](screenshots/02_dash1_overview.png)
+![підсумок тестів](screenshots/01_tests.png)
 
-![вкладка](screenshots/02_dash1_tab1_customer-360-rfm-segments.png)
+![довідка CLI](screenshots/04_cli_1.png)
 
-![вивантажений файл, як у Excel](screenshots/02_dash1_export1.png)
-
-Усі скріншоти (8): [screenshots/](screenshots/README.md)
+Усі скріншоти (3): [screenshots/](screenshots/README.md)
 
 ---
 
