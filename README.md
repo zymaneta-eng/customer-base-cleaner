@@ -71,7 +71,13 @@ Tested on a benchmark dataset of **100,000 messy customer records**:
 +---------------------------------------------------------------------------------------+
 ```
 
-*(Visual UI screenshots will be added to the `/screenshots` gallery).*
+![дашборд: перший екран](screenshots/02_dash1_overview.png)
+
+![вкладка](screenshots/02_dash1_tab1_customer-360-rfm-segments.png)
+
+![вивантажений файл, як у Excel](screenshots/02_dash1_export1.png)
+
+Усі скріншоти (8): [screenshots/](screenshots/README.md)
 
 ---
 
